@@ -40,4 +40,3 @@ app.put("/completed", async function(req,res){
 })
 
 app.listen(4000);
-"OHH YEAH"
